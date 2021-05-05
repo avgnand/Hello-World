@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+
+This repository is for practice purposes. Lorem ipsum...
